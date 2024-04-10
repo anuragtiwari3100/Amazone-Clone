@@ -1,0 +1,13 @@
+
+
+Uname:anuragtiwarigpj2005,Pass:=xzLe5VsVuqInCADo
+mongodb+srv://anuragtiwarigpj2005:xzLe5VsVuqInCADo@awtproject.b8rc7w5.mongodb.net/ApnaProject
+"mongodb+srv://anuragtiwarigpj2005:xzLe5VsVuqInCADo@awtproject.b8rc7w5.mongodb.net/ApnaProject"
+
+
+=>npm i stripe
+npm i bcryptjs
+ npm i mongoose
+  npm i cors
+  npm i express
+we have use Stripr and mongoDB altals
